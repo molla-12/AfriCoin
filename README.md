@@ -1,0 +1,2 @@
+# AfriCoin
+digital coin
